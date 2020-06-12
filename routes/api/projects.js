@@ -4,3 +4,5 @@ const projController = require("../../controllers/projectController");
 router.route("/")
     .get(projController.findAll)
     .post(projController.create);
+
+module.exports = router;

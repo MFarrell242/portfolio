@@ -1,0 +1,18 @@
+.navBar {
+    height: 15%;
+    background-color: azure;
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 30px;
+}
+
+.navLink {
+    color: goldenrod;
+    margin-right: 30px;
+    margin-left: 10px;
+}
+
+.siteName {
+    text-align: center;
+    font-size: 30;
+}

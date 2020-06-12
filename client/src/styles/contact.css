@@ -1,0 +1,12 @@
+.contBox {
+    width: 70%;
+    margin-left: 13%;
+    background-color: rgb(175, 174, 174);
+    padding-left: 5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.conLink {
+    font-weight: bold;
+}

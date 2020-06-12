@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import About from './pages/About';
 import List from './pages/List';
-import Contact from './pages/List';
+import Contact from './pages/Contact';
 import Nav from './components/Nav';
 import { BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 
